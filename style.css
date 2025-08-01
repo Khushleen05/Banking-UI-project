@@ -54,19 +54,6 @@ body {
 .withdraw {
   background-color: #dc3545;
 }
-@media (max-width: 600px) {
-  .card {
-    padding: 20px;
-    width: 95%;
-  }
 
-  .btn {
-    font-size: 14px;
-    padding: 10px;
-  }
 
-  .card h2 {
-    font-size: 20px;
-  }
-}
 
