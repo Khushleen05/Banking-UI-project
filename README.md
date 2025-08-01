@@ -1,4 +1,4 @@
-# Responsive Banking UI with Deposit/Withdrawal Buttons and Balance Display
+# Responsive Banking UI 
 
 ## Description
 This project demonstrates a responsive and visually appealing banking user interface using HTML and CSS only.
@@ -8,4 +8,3 @@ This project demonstrates a responsive and visually appealing banking user inter
 - Deposit and Withdraw buttons
 - Centered layout
 - Fully responsive
-
