@@ -1,2 +1,11 @@
-# Banking-UI-project
-A responsive web interface for a basic banking system. It includes a card component showing the current balance, with buttons to deposit or withdraw funds. The layout adapts well to mobile and desktop screens. Built using HTML and CSS only. 
+# Responsive Banking UI with Deposit/Withdrawal Buttons and Balance Display
+
+## Description
+This project demonstrates a responsive and visually appealing banking user interface using HTML and CSS only.
+
+## Features
+- Balance display
+- Deposit and Withdraw buttons
+- Centered layout
+- Fully responsive
+
